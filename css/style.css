@@ -66,6 +66,9 @@ p {
     margin: 0;
 }
 
+.carousel {
+    overflow: hidden;
+}
 .clearFloat {
     clear: both;
     color: rgb(44, 102, 44);
